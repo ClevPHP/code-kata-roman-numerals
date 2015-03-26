@@ -51,12 +51,7 @@ function roman_numerals( $numerals ) {
 
 	strtoupper( $numerals );
 
-	if ( array_key_exists( $numerals, $numbers ) == true ) {
-		return $numbers[ $numerals ];
-	} else if ( ) {
-
-	}
-
+	return $numbers[ $numerals ];
 	
 }
 
