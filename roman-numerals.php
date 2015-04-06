@@ -7,7 +7,7 @@
  * @return integer
  */
 
-// khall987's Answer
+// klhall987's Answer
 
 function roman_numerals( $numerals ) {
 
